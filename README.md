@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Asaduzzaman Rahim
 
-🚀 Frontend Developer | WordPress Developer  
+🚀 Frontend Developer | React.js
 💻 Passionate about Web Design & Development  
 
-I am a Frontend & WordPress Developer with 2+ years of professional experience in building responsive, user-friendly, and business-focused websites. I enjoy turning design concepts into functional websites and creating custom WordPress solutions tailored to client needs.
+I am a Frontend Developer specializing in building responsive, user-friendly, and business-focused websites. I enjoy transforming design concepts into clean, functional interfaces and delivering high-quality web solutions.
 
 I believe in continuous learning and using technology to make a positive impact on businesses, teams, and users on the web.
 
@@ -14,7 +14,7 @@ I believe in continuous learning and using technology to make a positive impact 
 - **Frontend:** HTML5, CSS3, Bootstrap 5, Tailwind CSS  
 - **JavaScript:** JavaScript (ES6+), React.js  
 - **CMS:** WordPress Theme Customization  
-- **Design & Development:** Responsive Web Design, PSD/AI to HTML  
+- **Design & Development:** Responsive Web Design, PSD/Figma to HTML  
 - **Other:** Basic Python Knowledge  
 
 ---
@@ -22,12 +22,13 @@ I believe in continuous learning and using technology to make a positive impact 
 ## 💼 What I Do
 
 - Convert **PSD/AI/Figma designs** into pixel-perfect, responsive websites  
-- Develop **custom WordPress websites** based on client requirements  
-- Customize WordPress themes and improve website performance  
+- Build modern, responsive frontend interfaces using HTML, CSS, and JavaScript  
+- Optimize websites for performance, accessibility, and cross-browser compatibility  
 - Collaborate with design and development teams to deliver high-quality web solutions  
 - Solve frontend issues and improve UI/UX  
 
 ---
+
 
 ## 🎯 Career Objective
 
@@ -37,8 +38,7 @@ I aim to build a dynamic and satisfying career in web development, where I can c
 
 ## 🌱 Currently Learning
 
-- Advanced React concepts  
-- WordPress performance optimization  
+- Advanced React.js and Next.js concepts  
 - Modern UI/UX best practices  
 
 ---
