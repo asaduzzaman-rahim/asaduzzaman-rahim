@@ -9,6 +9,13 @@ I believe in continuous learning and using technology to make a positive impact 
 
 ---
 
+## 🎯 Career Objective
+
+I aim to build a dynamic and satisfying career in web development, where I can contribute my technical expertise, grow as a professional, and eventually lead a development team within an organization.
+
+---
+
+
 ## 🛠️ Technical Skills
 
 - **Frontend:** HTML5, CSS3, Bootstrap 5, Tailwind CSS  
@@ -30,18 +37,13 @@ I believe in continuous learning and using technology to make a positive impact 
 ---
 
 
-## 🎯 Career Objective
-
-I aim to build a dynamic and satisfying career in web development, where I can contribute my technical expertise, grow as a professional, and eventually lead a development team within an organization.
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced React.js and Next.js concepts  
 - Modern UI/UX best practices  
 
 ---
+
 
 ## 🤝 Let’s Connect
 
