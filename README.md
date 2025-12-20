@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Asaduzzaman Rahim
 
-🚀 Frontend Developer | React.js
+🚀 Frontend Developer | React.js  
 
-💻 Passionate about Web Design & Development  
 ---
 ![Asaduzzaman Rahim - Github Cover Photo](https://github.com/asaduzzaman-rahim/asaduzzaman-rahim/blob/master/Cover%20Photo.png)
 
