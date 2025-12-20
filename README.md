@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Asaduzzaman Rahim
 
 🚀 Frontend Developer | React.js
+
 💻 Passionate about Web Design & Development  
 ---
 ![Asaduzzaman Rahim - Github Cover Photo](https://github.com/asaduzzaman-rahim/asaduzzaman-rahim/blob/master/Cover%20Photo.png)
@@ -53,7 +54,7 @@ I aim to build a dynamic and satisfying career in web development, where I can c
 If you’re looking to grow your business with a professional website or want to collaborate on exciting projects, feel free to connect with me.
 
 📧 Email: *(rahim.asaduzzaman@gmail.com)*  
-🔗 LinkedIn: *(https://linkedin.com/in/asaduzzaman-rahim)*
+🔗 LinkedIn: *[Asaduzzaman Rahim](https://linkedin.com/in/asaduzzaman-rahim)*
 
 ---
 
