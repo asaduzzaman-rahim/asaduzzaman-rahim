@@ -2,12 +2,13 @@
 
 🚀 Frontend Developer | React.js
 💻 Passionate about Web Design & Development  
+---
+![Asaduzzaman Rahim - Github Cover Photo](https://github.com/asaduzzaman-rahim/asaduzzaman-rahim/blob/master/Cover%20Photo.png)
 
+---
 I am a Frontend Developer specializing in building responsive, user-friendly, and business-focused websites. I enjoy transforming design concepts into clean, functional interfaces and delivering high-quality web solutions.
 
 I believe in continuous learning and using technology to make a positive impact on businesses, teams, and users on the web.
-
-![Asaduzzaman Rahim - Github Cover Photo](https://github.com/asaduzzaman-rahim/asaduzzaman-rahim/blob/master/Cover%20Photo.png)
 
 ---
 
