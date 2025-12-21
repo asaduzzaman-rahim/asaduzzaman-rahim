@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asaduzzaman Rahim
 
-🚀 Frontend Developer | React.js  
+## 🚀 Frontend Developer | React.js  
 
 ---
 ![Asaduzzaman Rahim - Github Cover Photo](https://github.com/asaduzzaman-rahim/asaduzzaman-rahim/blob/master/Cover%20Photo.png)
@@ -46,6 +46,12 @@ I aim to build a dynamic and satisfying career in web development, where I can c
 - Modern UI/UX best practices  
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asdfasfd&show_icons=true&locale=en&layout=compact" alt="asdfasfd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asdfasfd&show_icons=true&locale=en" alt="asdfasfd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asdfasfd&" alt="asdfasfd" /></p>
+---
 
 
 ## 🤝 Let’s Connect
@@ -53,6 +59,7 @@ I aim to build a dynamic and satisfying career in web development, where I can c
 If you’re looking to grow your business with a professional website or want to collaborate on exciting projects, feel free to connect with me.
 
 📧 Email: *(rahim.asaduzzaman@gmail.com)*  
+🔗 Facebook: *[Asaduzzaman Rahim](https://facebook.com/rahim.asaduzzaman)*
 🔗 LinkedIn: *[Asaduzzaman Rahim](https://linkedin.com/in/asaduzzaman-rahim)*
 
 ---
