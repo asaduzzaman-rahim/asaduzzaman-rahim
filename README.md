@@ -29,12 +29,6 @@ I aim to build a dynamic and satisfying career in web development, where I can c
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asaduzzaman-rahim&layout=compact&theme=tokyonight)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asaduzzaman-rahim&show_icons=true&theme=tokyonight)
-
-
----
 
 ## 💼 What I Do
 
@@ -59,8 +53,8 @@ I aim to build a dynamic and satisfying career in web development, where I can c
 If you’re looking to grow your business with a professional website or want to collaborate on exciting projects, feel free to connect with me.
 
 📧 Email: *(rahim.asaduzzaman@gmail.com)*  
-🔗 Facebook: *[Asaduzzaman Rahim](https://facebook.com/rahim.asaduzzaman)*
-🔗 LinkedIn: *[Asaduzzaman Rahim](https://linkedin.com/in/asaduzzaman-rahim)*
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asaduzzaman-rahim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asaduzzaman-rahim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rahim.asaduzzaman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](rahim.asaduzzaman@gmail.com)  
 
 ---
 
