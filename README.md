@@ -29,6 +29,13 @@ I aim to build a dynamic and satisfying career in web development, where I can c
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asaduzzaman-rahim&layout=compact&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asaduzzaman-rahim&show_icons=true&theme=tokyonight)
+
+
+---
+
 ## 💼 What I Do
 
 - Convert **PSD/AI/Figma designs** into pixel-perfect, responsive websites  
