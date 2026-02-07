@@ -25,6 +25,8 @@ I aim to build a dynamic and satisfying career in web development, where I can c
 - **JavaScript:** JavaScript (ES6+), React.js  
 - **CMS:** WordPress Theme Customization  
 - **Design & Development:** Responsive Web Design, PSD/Figma to HTML  
+- **Tools:** Git, GitHub, Figma, Firebase, Netlify and Basic of Photoshop. 
+- **UI Tools:** Figma, Component-based Design, Responsive Web Design.
 - **Other:** Basic Python Knowledge  
 
 ---
